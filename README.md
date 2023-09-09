@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shinig8mi" target="blank"><img src="https://img.shields.io/twitter/follow/shinig8mi?logo=twitter&style=for-the-badge" alt="shinig8mi" /></a> </p>
 
-- 🌱 I’m currently learning **laravel AND Tailwind CSS**
+- 🌱 I’m currently learning **Laravel AND Tailwind CSS**
 
 - 📫 How to reach me **rabiaimtiaz203@gmail.com**
 
