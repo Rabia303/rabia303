@@ -1,7 +1,7 @@
  <p align="center">
 </p>
 <h2 align="center">Hello there! My name is Rabia Imtiaz. 👋👩🏻‍💻</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Commputer Science from Dawood University of Enginering and Technology (DUET). I'm passionate about learning Mobile Developement and I am pretty much interseted in diving deeper into the world of AI and machine learning . My future goals are to explore and learn the field of Data Science ✨ and hope to contribute to that field as well. 
+<p align="center">I'm currently a student pursuing my Bachelor of Technology in Commputer Science from Dawood University of Enginering and Technology (DUET). I'm passionate about learning Mobile Developement and I am pretty much interseted in diving deeper into the world of AI and machine learning . My future goals is to explore and learn the field of Data Science ✨ and hope to contribute to that field as well. 
 <br> 📫 How to reach me **rabiaimtiaz203@gmail.com**
 </p>
 
