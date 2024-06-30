@@ -5,13 +5,7 @@
 <br> 📫 How to reach me **rabiaimtiaz203@gmail.com**
 </p>
 
-<p align="center"><a href="https://twitter.com/shini8mi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_rabia.ig/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
-
-<p align=center>
-  <a href="https://github.com/rabia303">
-    <img src="https://badges.pufler.dev/visits/rabia303/rabia303?style=flat-square&color=black&logo=github">
-  </a>
+<p align="center"><a href="https://twitter.com/shini8mi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://github.com/rabia303?tab=repositories">
     <img src="https://badges.pufler.dev/repos/rabia303?style=flat-square&color=black&logo=github">
   </a>
