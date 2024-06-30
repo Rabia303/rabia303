@@ -16,7 +16,7 @@
 
 <hr>
 
-<p><em>CS student at <a href="http://www.unb.br">Bachelor of Science, Computer Science - Expected Graduation 2025 (DUET) </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineeringing Student at <a href="https://www.thoughtworks.com">Advanced Diploma in Software Engineering (ADSE II) - Expected Graduation 2025 (Aptech)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CS student at <a href="http://www.unb.br">Dawood University of Engineering and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineeringing Student at <a href="https://www.thoughtworks.com">Aptech</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
