@@ -16,7 +16,7 @@
 
 <hr>
 
-<p><em>CS student at <a href="http://www.unb.br">DUET</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineeringing Student at <a href="https://www.thoughtworks.com">Aptech</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CS student at <a href="#">DUET</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineeringing Student at <a href="#">Aptech</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
