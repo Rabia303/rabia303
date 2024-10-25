@@ -2,7 +2,7 @@
 </p>
 <h2 align="center">Hello there! My name is Rabia Imtiaz. 👋👩🏻‍💻</h2>
 <p align="center">I'm Rabia, currently pursuing dual degrees in Computer Science from DUET and Software Engineering from Aptech, both set to complete in 2025 🎓. With a solid foundation in Java, C++, .NET MVC, SQL, PHP, and MySQL 💻, I’m passionate about software development and currently expanding my skills in mobile app development using Flutter and Dart 📱. My goal is to create impactful projects that not only stand out on my resume but also open doors for research opportunities, thesis work, and future career growth 🚀. I'm particularly interested in developing innovative solutions that can make a real difference, whether through AI or other cutting-edge technologies 🤖✨.
-<br> 📫 How to reach me **rabiaimtiaz203@gmail.com**
+<br> 📫 How to reach me rabiaimtiaz203@gmail.com
 </p>
 
 <p align="center"><a href="https://twitter.com/shini8mi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
