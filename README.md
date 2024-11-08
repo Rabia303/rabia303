@@ -45,7 +45,6 @@
 <br>
 <p align=center>
   <div align=center>
-   ![rabia303's Stats]()
     <a href="[https://streak-stats.demolab.com/?user=rabia303&theme=transparent](https://github-readme-stats.vercel.app/api?username=rabia303&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=rabia303&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="rabai303" />
     </a>
