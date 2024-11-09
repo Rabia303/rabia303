@@ -148,8 +148,8 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/rabia303/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rabia303&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
     </a>
   </div>
   
@@ -159,6 +159,12 @@
     </a>
   </div>
   <br>
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
 
 </p>
 
