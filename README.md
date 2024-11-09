@@ -1,6 +1,6 @@
  <p align="center">
 </p>
-<h2 align="center">Hello there! My name is Rabia Imtiaz. 👋👩🏻‍💻</h2>
+<h2 align="center">Hello there! My name is Rabia Imtiaz.👋🏻</h2>
 <p align="center">I'm Rabia, currently pursuing dual degrees in Computer Science from DUET and Software Engineering from Aptech, both set to complete in 2025 🎓. With a solid foundation in Java, C++, .NET MVC, SQL, PHP, and MySQL 💻, I’m passionate about software development and currently expanding my skills in mobile app development using Flutter and Dart 📱. My goal is to create impactful projects that not only stand out on my resume but also open doors for research opportunities, thesis work, and future career growth 🚀. I'm particularly interested in developing innovative solutions that can make a real difference, whether through AI or other cutting-edge technologies 🤖✨.
 <br> 📫 How to reach me rabiaimtiaz203@gmail.com
 </p>
@@ -142,6 +142,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   </a>
 </p>
+  <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
