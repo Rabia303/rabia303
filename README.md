@@ -146,27 +146,26 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p align=center>
-  <div align=center>
-    <a href="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    </a>
-  </div>
-  
-   <div align=center>
-    <a href="https://github.com/rabia303/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-<div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true">
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" title="Go to Source">
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
-</div>
 
 
+
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true">
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/rabia303/github-readme-stats">
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=0d1117&langs_count=10&layout=compact&border_color=70a5fd&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+</p>
+
+
+
 
 <hr>
 <h3>MY FRIEND</h3>
