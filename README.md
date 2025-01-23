@@ -11,8 +11,12 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/rabia303"><img src="https://img.shields.io/github/followers/rabia303?style=social"></a>
+  <a href="https://github.com/rabia303">
+    <img src="https://img.shields.io/github/followers/rabia303?style=social" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rabia303&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
+
 
 <hr>
 
