@@ -10,7 +10,7 @@
   <a href="https://x.com/shxxrabia"><img src="https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://rabia-portfolio-puce.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff69b4?logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://kaggle.com/rabiaimtiaz"><img src="https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://www.kaggle.com/rabiaaaimtiaz"><img src="https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
 ---
