@@ -110,14 +110,8 @@
 
 ---
 
-### 🥇 Kaggle Highlights
-
-<p align="center">
-  <a href="https://kaggle.com/rabiaimtiaz"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Competitions-Expert-yellow?logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notebooks-Bronze-9b59b6?logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datasets-Contributor-2ecc71?logo=kaggle&logoColor=white" />
-</p>
+### 🥇 Kaggle Highlights 
+<p align="center"> <a href="https://kaggle.com/rabiaimtiaz"> <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white" /> </a> <a href="https://www.kaggle.com/datasets/rabiaaaimtiaz/karachi-synthetic-crime-dataset-20202025"> <img src="https://img.shields.io/badge/Dataset-Karachi%20Crime%202020--2025-2ecc71?logo=kaggle&logoColor=white" /> </a> <a href="https://www.kaggle.com/code/rabiaaaimtiaz/karachicrimedataanalysis"> <img src="https://img.shields.io/badge/Notebook-Crime%20Data%20Analysis-orange?logo=kaggle&logoColor=white" /> </a> </p>
 
 ### 🏅 My Kaggle Badges
 
