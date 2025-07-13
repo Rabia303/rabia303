@@ -84,7 +84,7 @@
 | 💻 [Laptop Harbour App](https://github.com/Rabia303/Laptop-Harbour) | Flutter + Firebase marketplace app for renting and selling laptops |
 | 🏥 [NGO Donation Website](https://github.com/Rabia303/NGO-WEBSITE-USING-DOTNET-MVC-CORE-AND-SQL) | Full-featured NGO portal using .NET MVC Core and SQL Server |
 | 🌍 [Trip Budgeter App](https://github.com/Rabia303/tripBudget) | Flutter app to calculate and manage travel budgets |
-| 📁 [Karachi Crime Dataset](https://www.kaggle.com/datasets/rabiaimtiaz/karachi-crime-redzone-dataset) | Original ML-ready synthetic dataset for red zone risk analysis |
+| 📁 [Karachi Crime Dataset](https://www.kaggle.com/datasets/rabiaaaimtiaz/karachi-synthetic-crime-dataset-20202025) | Original ML-ready synthetic dataset for red zone risk analysis |
 | 🚗 [DriveXChange Car Rental](https://github.com/Rabia303/DriveXChange-CarRentalWebsite) | Car rental platform built using PHP and MySQL |
 
 ---
