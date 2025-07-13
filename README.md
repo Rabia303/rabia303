@@ -143,5 +143,6 @@ me = SoftwareEngineer()
 me.say_hi()
 
 ```
+---
 💡 Let’s Collaborate!
 <p align="center">If you're passionate about AI, full-stack development, or impactful community projects,<br>feel free to reach out or fork a project!</p> 
