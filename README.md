@@ -115,6 +115,12 @@
   <img src="https://img.shields.io/badge/Datasets-Contributor-2ecc71?logo=kaggle&logoColor=white" />
 </p>
 
+### 🏅 My Kaggle Badges
+
+<p align="center">
+  <img src="https://github.com/Rabia303/rabia303/blob/main/kaggle_badges.jpg" width="500" alt="Kaggle Badges" />
+</p>
+
 ---
 
 ### 💬 Python Greeting
@@ -131,7 +137,8 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-💡 Let’s Collaborate!
+
+```
+
+### 💡 Let’s Collaborate!
 <p align="center"> If you're passionate about AI, full-stack development, or impactful community projects,<br> feel free to reach out or fork a project! 🚀 </p>
-🌐 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="60" alt="LinkedIn"/></a> <a href="https://x.com/shxxrabia"><img src="https://img.icons8.com/3d-fluency/94/twitter.png" width="60" alt="Twitter"/></a> <a href="https://github.com/rabia303"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="60" alt="GitHub"/></a> <a href="https://rabia-portfolio-puce.vercel.app/"><img src="https://img.icons8.com/3d-fluency/94/portfolio.png" width="60" alt="Portfolio"/></a> <a href="https://kaggle.com/rabiaimtiaz"><img src="https://img.icons8.com/3d-fluency/94/kaggle.png" width="60" alt="Kaggle"/></a> </p> <div align="center"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"> <br><em>"First solve the problem. Then write the code." – John Johnson</em> </div> ```
