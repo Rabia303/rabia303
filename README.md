@@ -77,30 +77,30 @@
 ---
 
 ### 🏆 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔐 [Muhafiz Security System](https://github.com/Rabia303/final-year-project-muhafiz) | AI-powered crime dataset platform with Flask, MongoDB, and Power BI |
-| 💻 [Laptop Harbour App](https://github.com/Rabia303/Laptop-Harbour) | Flutter + Firebase marketplace app for renting and selling laptops |
-| 🏥 [NGO Donation Website](https://github.com/Rabia303/NGO-WEBSITE-USING-DOTNET-MVC-CORE-AND-SQL) | Full-featured NGO portal using .NET MVC Core and SQL Server |
-| 🌍 [Trip Budgeter App](https://github.com/Rabia303/tripBudget) | Flutter app to calculate and manage travel budgets |
-| 📁 [Karachi Crime Dataset](https://www.kaggle.com/datasets/rabiaaaimtiaz/karachi-synthetic-crime-dataset-20202025) | Original ML-ready synthetic dataset for red zone risk analysis |
-| 🚗 [DriveXChange Car Rental](https://github.com/Rabia303/DriveXChange-CarRentalWebsite) | Car rental platform built using PHP and MySQL |
-
 ---
+| Project                                                                                                                | Tech Stack                                                                                                                                                                                                                                                                                                                                               | Description                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **[🔐 Muhafiz Red Zone Mapping and Safer Route Suggestion](https://github.com/Rabia303/final-year-project-muhafiz)**                               | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python) | AI-powered crime analysis and safer route suggestion system with real-time user reports |
+| **[💻 Laptop Harbour App](https://github.com/Rabia303/Laptop-Harbour)**                                                | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart)                                                                                        | Cross-platform app for renting and selling laptops with real-time listings and chat     |
+| **[🏥 NGO Donation Website](https://github.com/Rabia303/NGO-WEBSITE-USING-DOTNET-MVC-CORE-AND-SQL)**                   | ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square\&logo=dotnet) ![MVC](https://img.shields.io/badge/MVC-007ACC?style=flat-square\&logo=visualstudio) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver)                                                                 | Donation and volunteer management portal for NGOs with full admin control               |
+| **[🌍 Trip Budgeter App](https://github.com/Rabia303/tripBudget)**                                                     | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase)                                                                                                                                                                       | Travel budget calculator with destination tracking and group trip cost sharing          |
+| **[📁 Karachi Crime Dataset](https://www.kaggle.com/datasets/rabiaaaimtiaz/karachi-synthetic-crime-dataset-20202025)** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)                                                                                        | ML-ready synthetic dataset for Karachi with severity scores and red zone flags          |
+| **[🚗 DriveXChange Car Rental](https://github.com/Rabia303/DriveXChange-CarRentalWebsite)**                            | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)                                                                                           | Complete car rental platform with admin panel, booking system, and reviews              |
 
-### 📊 GitHub Analytics
+
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabia303&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" />
+  
+![Rabia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabia303&show_icons=true&theme=radical&border_color=8A2BE2&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&include_all_commits=true&count_private=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&layout=compact&theme=radical&border_color=8A2BE2&bg_color=000000&title_color=8A2BE2)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=radical&border=8A2BE2&background=000000&stroke=8A2BE2)
+  
 </div>
 
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
@@ -138,5 +138,9 @@ me.say_hi()
 
 ```
 ---
-💡 Let’s Collaborate!
-<p align="center">If you're passionate about AI, full-stack development, or impactful community projects,<br>feel free to reach out or fork a project!</p> 
+## 💡 Let's Connect
+<p align="center">
+  Let's build the future together! Reach out for collaborations in:<br>
+  <strong>AI Research • Full-Stack Development • ML Solutions • Open Source</strong>
+</p>
+
