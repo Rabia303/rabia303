@@ -1,183 +1,137 @@
- <p align="center">
-</p>
-<h2 align="center">Hello there! My name is Rabia Imtiaz.👋🏻</h2>
-<p align="center">I'm Rabia, currently pursuing dual degrees in Computer Science from DUET and Software Engineering from Aptech, both set to complete in 2025 . With a solid foundation in Java, C++, .NET MVC, SQL, PHP, and MySQL , I’m passionate about software development and currently expanding my skills in mobile app development using Flutter and Dart .
-<br>  How to reach me rabiaimtiaz203@gmail.com
-</p>
-
-<p align="center"><a href="https://twitter.com/shini8mi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://github.com/rabia303?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/rabia303?style=flat-square&color=black&logo=github">
-  </a>
-</p>
 <p align="center">
-  <a href="https://github.com/rabia303">
-    <img src="https://img.shields.io/github/followers/rabia303?style=social" alt="GitHub Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rabia303&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=CS+%26+SE+Graduate;MERN+Stack+Developer;Flutter+App+Builder;AI+%7C+ML+%7C+DL+Explorer;Let's+Code+%F0%9F%92%BB+Create+%F0%9F%92%A1+Innovate+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
-<hr>
-
-<p><em>CS student at <a href="#">DUET</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineering Student at <a href="#">Aptech</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-
-
-        #!/usr/bin/python
-           # -*- coding: utf-8 -*-
-
-
-        class SoftwareEngineer:
-
-          def __init__(self):
-        self.name = "Rabia Imtiaz"
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_US"]
-
-      def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-         me = SoftwareEngineer()
-        me.say_hi()
-
-# 💼 Skills & Tools
+<h1 align="center">✨ Rabia Imtiaz – Software Engineer | ML Enthusiast | Full-Stack Developer ✨</h1>
 
 <p align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
-  </a>
-
-  <!-- Frameworks & Libraries -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
-  </a>
-  <!-- .NET Core -->
-  <a href="https://dotnet.microsoft.com/en-us/platform/dotnet-core" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50"/>
-  </a>
-  
-  <!-- Tools & Platforms -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="50" height="50"/>
-  </a>
-  <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
-  </a>
-  
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-</p>
-  <br>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" title="Go to Source">
-    <img width=400 src="https://github-readme-stats.vercel.app/api?username=rabia303&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-
-
-
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true">
-    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rabia303&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views">
+  <a href="https://github.com/rabia303?tab=repositories"><img src="https://custom-icon-badges.demolab.com/badge/repositories-27-8A2BE2?logo=repo" alt="Repositories"></a>
+  <a href="https://x.com/shxxrabia"><img src="https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://rabia-portfolio-puce.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff69b4?logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://kaggle.com/rabiaimtiaz"><img src="https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rabia303/github-readme-stats">
-    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=0d1117&langs_count=10&layout=compact&border_color=70a5fd&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a>
-</p>
+---
+
+### 👩‍💻 About Me
+
+🎓 Dual Degree **Holder** in **Computer Science (DUET)** and **Software Engineering (Aptech)**  
+🚀 Passionate about building **intelligent, scalable applications** using full-stack and AI technologies  
+💡 Exploring **NLP, Deep Learning, and Cloud-native solutions**  
+📬 **Email:** rabiaimtiaz203@gmail.com  
+
+<p><em>CS student at <a href="#">DUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br> Software Engineering Student at <a href="#">Aptech</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+
+---
+
+### 📌 Resume Highlights
+
+- 📊 Published an original crime dataset on **Kaggle** for AI/ML research  
+- 🧠 Created an ML-ready dataset for NLP and crime zone prediction tasks  
+- 📱 Deployed 10+ cross-platform apps using Flutter and MERN stack  
+- 💼 Open to internships and freelance roles in AI or full-stack development  
 
 
+---
 
+### 🚀 Tech Stack & Tools
 
-<hr>
-<h3>MY FRIEND</h3>
-has a message for you...
+#### 🧩 Languages, Frameworks & Databases
 
-<br>
-<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+
+#### 🧠 AI/ML & Data Science
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![spaCy](https://img.shields.io/badge/-spaCy-09a3d5?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-ffd21f?style=flat-square&logo=huggingface&logoColor=black)
+
+#### 🛠️ Tools & Platforms
+
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔐 [Muhafiz Security System](https://github.com/Rabia303/final-year-project-muhafiz) | AI-powered crime dataset platform with Flask, MongoDB, and Power BI |
+| 💻 [Laptop Harbour App](https://github.com/Rabia303/Laptop-Harbour) | Flutter + Firebase marketplace app for renting and selling laptops |
+| 🏥 [NGO Donation Website](https://github.com/Rabia303/NGO-WEBSITE-USING-DOTNET-MVC-CORE-AND-SQL) | Full-featured NGO portal using .NET MVC Core and SQL Server |
+| 🌍 [Trip Budgeter App](https://github.com/Rabia303/tripBudget) | Flutter app to calculate and manage travel budgets |
+| 📁 [Karachi Crime Dataset](https://www.kaggle.com/datasets/rabiaimtiaz/karachi-crime-redzone-dataset) | Original ML-ready synthetic dataset for red zone risk analysis |
+| 🚗 [DriveXChange Car Rental](https://github.com/Rabia303/DriveXChange-CarRentalWebsite) | Car rental platform built using PHP and MySQL |
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabia303&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" />
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-<br>
+
+### 📈 GitHub Activity Graph
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rabia303&theme=tokyo-night)
+
+
+---
+
+### 🥇 Kaggle Highlights
+
+<p align="center">
+  <a href="https://kaggle.com/rabiaimtiaz"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Competitions-Expert-yellow?logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notebooks-Bronze-9b59b6?logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datasets-Contributor-2ecc71?logo=kaggle&logoColor=white" />
+</p>
+
+---
+
+### 💬 Python Greeting
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Rabia Imtiaz"
+        self.role = "Full-Stack Developer | AI Specialist"
+        self.skills = ["Java", "Flutter", "Python", "ML", "Cloud"]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's build innovative solutions together!")
+
+me = SoftwareEngineer()
+me.say_hi()
+💡 Let’s Collaborate!
+<p align="center"> If you're passionate about AI, full-stack development, or impactful community projects,<br> feel free to reach out or fork a project! 🚀 </p>
+🌐 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/rabia-imtiaz/"><img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="60" alt="LinkedIn"/></a> <a href="https://x.com/shxxrabia"><img src="https://img.icons8.com/3d-fluency/94/twitter.png" width="60" alt="Twitter"/></a> <a href="https://github.com/rabia303"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="60" alt="GitHub"/></a> <a href="https://rabia-portfolio-puce.vercel.app/"><img src="https://img.icons8.com/3d-fluency/94/portfolio.png" width="60" alt="Portfolio"/></a> <a href="https://kaggle.com/rabiaimtiaz"><img src="https://img.icons8.com/3d-fluency/94/kaggle.png" width="60" alt="Kaggle"/></a> </p> <div align="center"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"> <br><em>"First solve the problem. Then write the code." – John Johnson</em> </div> ```
