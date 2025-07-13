@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 Dual Degree **Holder** in **Computer Science (DUET)** and **Software Engineering (Aptech)**  
+🎓 Equipped with both theoretical knowledge and hands-on experience in Computer Science & Software Engineering  
 🚀 Passionate about building **intelligent, scalable applications** using full-stack and AI technologies  
 💡 Exploring **NLP, Deep Learning, and Cloud-native solutions**  
 📬 **Email:** rabiaimtiaz203@gmail.com  
@@ -92,12 +92,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabia303&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" />
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabia303&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia303&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabia303&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> </div>
 
 ### 📈 GitHub Activity Graph
 
@@ -141,4 +136,4 @@ me.say_hi()
 ```
 
 ### 💡 Let’s Collaborate!
-<p align="center"> If you're passionate about AI, full-stack development, or impactful community projects,<br> feel free to reach out or fork a project! 🚀 </p>
+<p align="center"> If you're passionate about AI, full-stack development, or impactful community projects,<br> feel free to reach out or fork a project!</p>
